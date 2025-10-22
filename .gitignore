@@ -1,0 +1,20 @@
+# Unreal Engine build cache
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# VS and build artifacts
+.vs/
+*.VC.db
+*.sdf
+*.opensdf
+*.suo
+*.user
+
+# Platform and system files
+*.DS_Store
+Thumbs.db
+
+# Optional: local developer configs
+Config/DefaultEditorPerProjectUserSettings.ini
